@@ -12,7 +12,7 @@ import java.awt.geom.Ellipse2D;
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
 import java.awt.geom.Arc2D;
-
+//this is so exciting
 public class SmileFace extends JComponent implements ActionListener {
 	
 	int x=395, velX=1;
