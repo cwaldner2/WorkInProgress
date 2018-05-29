@@ -67,5 +67,6 @@ public class SmileFace extends JComponent implements ActionListener {
 		repaint();
 	}
 
+	
 }
 
