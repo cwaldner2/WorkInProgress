@@ -1,3 +1,4 @@
+//This is the original SmileFace graphic animation where only one iris is animated.
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
