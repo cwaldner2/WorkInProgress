@@ -38,6 +38,7 @@
 			Ellipse2D.Double e2 = new Ellipse2D.Double(385, 100, 50, 100);
 			g2.fill(e2);
 			
+			
 			Ellipse2D.Double e3 = new Ellipse2D.Double(392, 101, 32, 80);
 			g2.setColor(new Color(255, 255, 255));
 			g2.fill(e3); 
