@@ -1,4 +1,5 @@
-
+//This is the second version of SmileFace Graphics where we figured out how to animate both irises.
+ 
 	import java.awt.Graphics;
 	import java.awt.Graphics2D;
 	import java.awt.Rectangle;
